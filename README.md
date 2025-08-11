@@ -3,7 +3,7 @@
 Curriculum and trackerrr :)
 
 ## Week 1 — Linux & AI Foundations
-- [ ] Linux process commands: ps, top, htop, kill, pkill
+- [/] Linux process commands: ps, top, htop, kill, pkill
 - [ ] Networking commands: netstat, ss, curl, dig, nslookup
 - [ ] Practice incident triage on CPU/mem/network issues
 - [ ] Terraform basics: deploy & destroy AWS EC2
